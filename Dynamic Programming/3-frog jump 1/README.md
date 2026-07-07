@@ -1,6 +1,6 @@
-# 🐸 Frog Jump (Minimum Energy)
+#  Frog Jump (Minimum Energy)
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Given a number of stairs and a frog, the frog wants to climb from the **0th stair** to the **(N-1)th stair**.
 
@@ -47,7 +47,7 @@ Total Energy = 2
 
 ---
 
-## 📥 Example 2
+##  Example 2
 
 ### Input
 
@@ -75,7 +75,7 @@ Total Energy = 9
 
 ---
 
-## ✅ Constraints
+##  Constraints
 
 - `1 ≤ N ≤ 10^5`
 - `1 ≤ height[i] ≤ 10^4`
